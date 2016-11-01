@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Resume ~ Midterm</title>
+    <style>
+	h1{
+		text-align: center; 
+	}
+	img {
+		float: right; 
+	}
+    </style>
+  </head>
+  <body>
+	<h1>Andrew Shin&#39;s Resume</h1>
+	<img src="../img1/Kimmy Jin.jpg" alt="A fine picture of me" width="300" >
+  </body>
+
+
+<h2>Education & Credentials</h2>
+
+<ul>
+    <li>
+	Beaumont Highschool -- Cherry Valley,CA<br>
+	BA Music, 2017-2021
+	</li>
+
+	<li>
+	UCLA, University of Calinfornia, Los Angeles -- Los Angeles<br>
+	B Epidemiologists, 2021-2025
+	</li>
+	
+	<li>
+	University of Redlands -- Redlands, CA<br>
+	PHD Education, 2022-2026
+	</li>
+</ul>
+
+</body>
+
+        
+</html>
